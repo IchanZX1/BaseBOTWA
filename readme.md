@@ -30,8 +30,8 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ZXcoderID/ichanzx-whatsapp-bot.git
-cd ichanzx-whatsapp-bot
+git clone https://github.com/IchanZX1/BaseBOTWA.git
+cd BaseBOTWA
 npm install
 npm start
 ```
