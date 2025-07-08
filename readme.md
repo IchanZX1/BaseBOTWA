@@ -22,7 +22,7 @@
 ## 📸 Preview
 
 <p align="center">
-    <img src="https://files.catbox.moe/zqcdv7.png" width="400" alt="Bot Screenshot"/>
+    <img src="https://files.catbox.moe/zqcdv7.png" width="1280" alt="Bot Screenshot"/>
 </p>
 
 ---
