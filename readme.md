@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://iili.io/2Zpjtlp.jpg" />
+     <img src="https://i.pinimg.com/736x/3b/36/4a/3b364a4cb799980f36c161b6653e1ddf.jpg" />
 </p>
 
 <h1 align="center">🤖 IchanZX WhatsApp Bot Base</h1>
