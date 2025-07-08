@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/736x/20/c2/af/20c2af08406f907458681d9c24917e62.jpg" width="120" alt="Bot WhatsApp Logo"/>
+     <img src="https://iili.io/2Zpjtlp.jpg" />
 </p>
 
 <h1 align="center">🤖 IchanZX WhatsApp Bot Base</h1>
