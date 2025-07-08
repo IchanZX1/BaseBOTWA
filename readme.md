@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/674621/209457514-4b8e6e2d-6e8e-4c2d-8c6b-2b6b1b8e8e8e.png" width="120" alt="Bot WhatsApp Logo"/>
+    <img src="https://i.pinimg.com/736x/20/c2/af/20c2af08406f907458681d9c24917e62.jpg" width="120" alt="Bot WhatsApp Logo"/>
 </p>
 
 <h1 align="center">🤖 IchanZX WhatsApp Bot Base</h1>
@@ -22,7 +22,7 @@
 ## 📸 Preview
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/674621/209457518-7e6e8e2d-6e8e-4c2d-8c6b-2b6b1b8e8e8e.png" width="400" alt="Bot Screenshot"/>
+    <img src="https://files.catbox.moe/zqcdv7.png" width="400" alt="Bot Screenshot"/>
 </p>
 
 ---
