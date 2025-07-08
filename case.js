@@ -90,53 +90,6 @@ const args = body.trim().split(/ +/).slice(1)
                 case 'time':
                     chanzx.sendMessage(from, { text: `Current time: ${moment().tz('Asia/Jakarta').format('HH:mm:ss')}` }, { quoted: msg });
                     break;
-                    case '':
-                    chanzx.sendMessage(from, { text: `📦 *REALM MINECRAFT* 📦
-
-Hai Hai Hai Minecrafter 👋🏻 
-
-main Minecraft di server emang seru.. tapi setup nya susah gak si?
-mana sering ngelag lagi 🤔
-
-mendingan beli realm aja! *#DiZovaStore* digital store!
-
-🗣️ : realm itu apa sih min
-👤 : realm itu semacam server postingan langsung dari Minecraft, dengan setup yang sangat mudah karna langsung ingame, tanpa panel panel ribet, dan bahkan banyak include marketplace gratis yang akan kalian dapatkan, sehingga mempermudah pemasangan map serta kalian gabakal bosan!
-
-💸 : 55.000,- / 2 bulan
-
-Tunggu apa lagi? gassken sikat!!` }, { quoted: msg });
-                    break;
-
-                    // RegExp for greeting and product inquiry
-                    case 'halo':
-                    case 'admin':
-                    case 'ahmad':
-                    case 'zovamin1290':
-                    case 'produk':
-                    case 'zovastore':
-                    case 'realm':
-                    case 'minecraft':
-                        // RegExp to match variations of the inquiry
-                        const inquiryRegex = /halo.*admin.*ahmad.*zovamin1290.*(produk|zovastore|realm|minecraft)/i;
-                        if (inquiryRegex.test(body.replace(/%2[0o]duk0przovastore/gi, 'produk zovastore'))) {
-                            chanzx.sendMessage(from, { text: `📦 *REALM MINECRAFT* 📦
-
-Hai Hai Hai Minecrafter 👋🏻 
-
-main Minecraft di server emang seru.. tapi setup nya susah gak si?
-mana sering ngelag lagi 🤔
-
-mendingan beli realm aja! *#DiZovaStore* digital store!
-
-🗣️ : realm itu apa sih min
-👤 : realm itu semacam server postingan langsung dari Minecraft, dengan setup yang sangat mudah karna langsung ingame, tanpa panel panel ribet, dan bahkan banyak include marketplace gratis yang akan kalian dapatkan, sehingga mempermudah pemasangan map serta kalian gabakal bosan!
-
-💸 : 55.000,- / 2 bulan
-
-Tunggu apa lagi? gassken sikat!!` }, { quoted: msg });
-                        }
-                        break;
                 default:
                     chanzx.sendMessage(from, { text: `Unknown command: ${command}` }, { quoted: msg });
             }
