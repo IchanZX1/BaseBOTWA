@@ -41,10 +41,10 @@ npm start
 ## 🌐 Connect with Me
 
 <p align="center">
-    <a href="https://github.com/ZXcoderID"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://instagram.com/ichan_zx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://t.me/ichanzx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="mailto:ichanzx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/IchanZX1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://instagram.com/_fake.story46"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://t.me/ichanxd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="mailto:ichanzxcoderme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ npm start
 ## ☕ Support & Donate
 
 <p align="center">
-    <a href="https://sociabuzz.com/ichanzx/donate" target="_blank">
+    <a href="https://sociabuzz.com/ichanzx/tribe" target="_blank">
         <img src="https://img.shields.io/badge/Donate%20via-Sociabuzz-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
     </a>
 </p>
@@ -69,6 +69,6 @@ MIT &copy; ZXcoderID
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/ZXcoderID/ichanzx-whatsapp-bot?style=social" alt="GitHub stars"/>
-    <img src="https://img.shields.io/github/forks/ZXcoderID/ichanzx-whatsapp-bot?style=social" alt="GitHub forks"/>
+    <img src="https://img.shields.io/github/stars/IchanZX1/BaseBOTWA?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/forks/IchanZX1/BaseBOTWA?style=social" alt="GitHub forks"/>
 </p>
